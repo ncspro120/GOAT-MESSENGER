@@ -18,15 +18,15 @@ module.exports = {
   onStart: async function ({ api, event }) {
     const ownerText = 
 `╭─ 👑 Oᴡɴᴇʀ Iɴғᴏ 👑 ─╮
-│ 👤 Nᴀᴍᴇ       : Mᴏʜᴀᴍᴍᴀᴅ Aᴋᴀsʜ
-│ 🧸 Nɪᴄᴋ       : Aᴋᴀsʜ
+│ 👤 Nᴀᴍᴇ       : KIPE ESPERANCE 
+│ 🧸 Nɪᴄᴋ       : KIPE
 │ 🎂 Aɢᴇ        : 18+
 │ 💘 Rᴇʟᴀᴛɪᴏɴ : Sɪɴɢʟᴇ
 │ 🎓 Pʀᴏғᴇssɪᴏɴ : Sᴛᴜᴅᴇɴᴛ
 │ 📚 Eᴅᴜᴄᴀᴛɪᴏɴ : Iɴᴛᴇʀ 2ɴᴅ Yᴇᴀʀ
-│ 🏡 Lᴏᴄᴀᴛɪᴏɴ : 𝐃𝐡𝐚𝐤𝐚 - 𝐆𝐚𝐳𝐢𝐩𝐮𝐫
+│ 🏡 Lᴏᴄᴀᴛɪᴏɴ : NAKURU - VASHO
 ├─ 🔗 Cᴏɴᴛᴀᴄᴛ ─╮
-│ 📘 Facebook  : fb.com/akashx404 
+│ 📘 Facebook  : fb.https://www.facebook.com/profile.php?id=61587759572328 
 │ 💬 Messenger: m.me/akashx404 
 │ 📞 WhatsApp  : wa.me/01933165880
 ╰────────────────╯`;
