@@ -4,7 +4,7 @@ module.exports = {
   config: {
     name: "autoinvite",
     version: "2.5",
-    author: "Mohammad Akash",
+    author: "kipe ncs ",
     category: "events"
   },
 
@@ -39,7 +39,7 @@ ${boldName}
 🌀 আবার অ্যাড করে দিলাম 😇  
 
 ━━━━━━━━━━━━━━━
-👑 𝗕𝗼𝘁 𝗢𝘄𝗻𝗲𝗿 : 𝗔𝗸𝗮𝘀𝗵 💎
+👑 𝗕𝗼𝘁 𝗢𝘄𝗻𝗲𝗿 : KIPE ESPERANCE 💎
 ━━━━━━━━━━━━━━━`
       };
 
