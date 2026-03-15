@@ -1,7 +1,7 @@
 exports.config = {
   name: "fork",
   version: "5.0",
-  author: "MOHAMMAD AKASH",
+  author: "kipe",
   countDown: 0,
   role: 0,
   shortDescription: "Fork Link",
@@ -25,7 +25,7 @@ exports.onChat = async function({event: z, api: y}){
   if(!m) return;
   const fork = m.includes("fork") || m.includes("repository");
   if(fork){
-    y.sendMessage("📗 My GitHub Repo:\nhttps://github.com/EryXenX/GOAT-MESSENGER.git", t, z.messageID);
+    y.sendMessage("📗 My GitHub Repo:\nonly my boss kipe esperance can use cmd fork ", t, z.messageID);
     last[t] = n;
   }
 };
