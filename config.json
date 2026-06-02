@@ -19,7 +19,7 @@
   "adminBot": [
     "61580343440967",
     "61588038231841",
-    "",
+    "61590026428291",
     ""
   ],
   "whiteListMode": {
@@ -27,7 +27,7 @@
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "YOR BABEY KIPE ",
+  "nickNameBot": "♡゙𝆠꯭፝֟ ≛⃝𝐌༎kipe❯🌷🩷ᥫ᭡⎯꯭꯭̽⃞😽ꤪꤨꤪ",
   "prefix": "-",
   "database": {
     "type": "sqlite",
